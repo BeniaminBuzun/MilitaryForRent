@@ -1,0 +1,795 @@
+{
+  "pages": [
+    {
+      "url": "index.html",
+      "title": "main",
+      "header": {
+        "title": "Black Veil Solutions",
+        "subtitle": "Private military group for rent",
+        "button": "Tell me more",
+        "ingSrc": ""
+      },
+      "descryption": "At Black Veil Solutions, we offer tailored, discreet solutions to meet your unique needs. Whether you're seeking high-stakes problem-solving or subtle influence, our highly trained, professional team ensures smooth operations that leave no trace. With decades of experience and global reach, we are your partner in resolving delicate situations efficiently, securely, and confidentially. Trust us to manage what others cannot.",
+      "elements": {
+        "title": "services",
+        "content": [
+          {
+            "svg": "",
+            "title": "Assasinations",
+            "descryption": "When traditional conflict resolution is no longer an option, Black Veil Solutions offers a final, decisive resolution. Our elite operatives ensure precision-targeted eliminations with the utmost discretion, leaving no trace of involvement. Whether for political, personal, or corporate interests, we make sure your obstacles disappear—permanently."
+          }
+        ]
+      }
+    },
+    {
+      "url": "team.html",
+      "title": "team",
+      "people": [
+        {
+          "name": "Private Ryan",
+          "title": "Field Operative, Extraction Specialist",
+          "desc": "With a background in high-stakes recoveries, Private Ryan has led countless extraction missions behind enemy lines. Known for his commitment to getting everyone home, he brings tactical finesse, loyalty, and resilience to the team. He’s your guy when the odds are steep and survival is the only option.",
+          "img": "assets/img/team/0.png"
+        },
+        {
+          "name": "John Rambo",
+          "title": "Special Operations & Guerrilla Warfare Expert",
+          "desc": "John is our lone-wolf expert, with skills in infiltration, survival, and guerrilla warfare that are second to none. His combat prowess is legendary, and his survival skills have left him unmatched in hostile environments. Rambo’s commitment to 'getting the job done' speaks for itself—just don’t expect him to play by the book.",
+          "img": "assets/img/team/1.png"
+        },
+        {
+          "name": "Tom Cruise",
+          "title": "Undercover Specialist & Aerial Operations Coordinator",
+          "desc": "Renowned for his versatility, Tom can handle everything from high-altitude jumps to high-profile infiltration missions. With a strong background in high-risk, high-reward operations, he brings flair and precision to the team. From covert identities to daring stunts, he’s got it covered—literally.",
+          "img": "assets/img/team/2.png"
+        },
+        {
+          "name": "Joseph Stalin",
+          "title": "Strategic Planning & Resource Management",
+          "desc": "An uncompromising visionary, Joseph is a master strategist who handles the bigger picture and long-term operations for Black Veil Solutions. Known for his unyielding approach to achieving objectives, he manages the 'resources' (human and otherwise) with an iron will and relentless efficiency.",
+          "img": "assets/img/team/3.jpg"
+        },
+        {
+          "name": "Darth Vader",
+          "title": "Head of Security & Compliance",
+          "desc": "With a commanding presence and an uncompromising approach to discipline, Darth ensures absolute control over internal and external security. Skilled in interrogation and compliance enforcement, he keeps everyone in line with his…persuasive techniques. When Vader’s in charge, you can be assured that no secret is ever leaked.",
+          "img": "assets/img/team/4.png"
+        },
+        {
+          "name": "Emperor of Mankind",
+          "title": "Chief Visionary Officer & Moral Compass",
+          "desc": "The Emperor provides Black Veil Solutions with an unparalleled sense of purpose and leadership. As the ultimate authority on power dynamics and long-term vision, he inspires the team with his ambitious worldview and unwavering commitment to order. Revered by all, his influence reaches every corner of the organization.",
+          "img": "assets/img/team/5.png"
+        }
+      ]
+    },
+    {
+      "url": "trackrecord.html",
+      "title": "trackrecord",
+      "header": "Our Trackrecord",
+      "description": "At Black Veil Solutions, our reputation is built on a history of flawlessly executed, high-stakes operations. From shaping world events to safeguarding the most hidden truths, each mission highlights our commitment to precision, discretion, and unparalleled results. Below is a chronicle of our proudest achievements—each one a testament to our expertise and our unwavering dedication to rewriting history.",
+      "timeline": [
+        {
+          "title": "Operation Ides of March",
+          "date": "March 15, 44 BCE",
+          "img": "assets/img/about/1.png",
+          "desc": "One of our earliest documented successes, this mission removed an influential political figure, ensuring a timely regime change in the Roman Republic. Coordinated meticulously by multiple operatives, 'Ides of March' set the gold standard for high-profile terminations.",
+          "objective": "Target: Julius Caesar",
+          "result": "Result: flawless execution, historical impact secured."
+        },
+        {
+          "title": "Operation High Castle",
+          "date": "February 1947",
+          "img": "assets/img/about/2.png",
+          "desc": "In a frigid mission under extreme conditions, our team successfully diverted attention from a hidden Antarctic base, ensuring world powers remained oblivious. Black Veil agents skillfully managed staged 'explorations' and adjusted records to keep this piece of history a well-guarded secret.",
+          "objective": "Objective: Concealing Nazi Base on the South Pole",
+          "result": "Outcome: no evidence, no questions."
+        },
+        {
+          "title": "Operation Lone Star",
+          "date": "November 22, 1963",
+          "img": "assets/img/about/3.png",
+          "desc": "This high-profile mission left a lasting impact on both national and global narratives. By coordinating multiple points of 'interest,' we ensured a plausible story took root in the public psyche. The operation’s complexity and ensuing debates only boosted its credibility.",
+          "objective": "Target: John F. Kennedy",
+          "result": "Legacy: eternal speculation, zero traces."
+        },
+        {
+          "title": "Operation Moon Landing",
+          "date": "July 20, 1969",
+          "img": "assets/img/about/4.png",
+          "desc": "An ambitious PR feat, this operation took visual effects to a new level. Using cutting-edge production facilities, we simulated the Apollo landing to perfection, instilling hope in a generation while keeping the 'true' space frontier uncharted.",
+          "objective": "Objective: Faking the First Moon Landing",
+          "result": "Result: mission accomplished, world awestruck."
+        },
+        {
+          "title": "Operation Globe Guard",
+          "date": "1950-Present",
+          "img": "assets/img/about/5.png",
+          "desc": "Ensuring global belief in a round Earth has been a long-standing commitment. By managing satellite data, GPS systems, and silencing rogue theories, Black Veil has kept the truth about Earth’s true form safely under wraps.",
+          "objective": "Objective: The Flat Earth Coverup",
+          "result": "Outcome: spherical consensus, flat-line data anomalies."
+        },
+        {
+          "title": "Operation War of the Worlds",
+          "date": "October 30, 1938",
+          "img": "assets/img/about/6.png",
+          "desc": "Although initially disguised as a 'radio drama,' this operation was a rapid-response mission to contain an extraterrestrial incident. Our agents coordinated countermeasures while skillfully steering public perception.",
+          "objective": "Objective: Repelling Martian Invasion",
+          "result": "Resolution: world remains blissfully unaware, Martian threat neutralized."
+        },
+        {
+          "title": "Operation Chemtrail",
+          "date": "January 2020-Present",
+          "img": "assets/img/about/7.png",
+          "desc": "In a collaboration with select bioengineering partners, Black Veil agents facilitated a global dispersal operation to achieve widespread impact. Using specialized chemtrails, we ensured maximum coverage. Our operatives have consistently worked to maintain confusion and misinformation around the topic.",
+          "objective": "Objective: Spreading COVID-19 through GMO Chemtrails",
+          "result": "Status: ongoing success, public remains divided."
+        }
+      ]
+    },
+    {
+      "url": "equipment.html",
+      "title": "equipment"
+    },
+    {
+      "url": "order.html",
+      "title": "order",
+      "presidents": [
+        {
+          "country": "United States",
+          "head_of_state": "President",
+          "name": "Joe Biden",
+          "price_value": 100000000
+        },
+        {
+          "country": "China",
+          "head_of_state": "President",
+          "name": "Xi Jinping",
+          "price_value": 90000000
+        },
+        {
+          "country": "Russia",
+          "head_of_state": "President",
+          "name": "Vladimir Putin",
+          "price_value": 80000000
+        },
+        {
+          "country": "Germany",
+          "head_of_state": "President",
+          "name": "Frank-Walter Steinmeier",
+          "price_value": 70000000
+        },
+        {
+          "country": "United Kingdom",
+          "head_of_state": "King",
+          "name": "Charles III",
+          "price_value": 65000000
+        },
+        {
+          "country": "France",
+          "head_of_state": "President",
+          "name": "Emmanuel Macron",
+          "price_value": 60000000
+        },
+        {
+          "country": "Japan",
+          "head_of_state": "Emperor",
+          "name": "Naruhito",
+          "price_value": 50000000
+        },
+        {
+          "country": "India",
+          "head_of_state": "President",
+          "name": "Droupadi Murmu",
+          "price_value": 55000000
+        },
+        {
+          "country": "Brazil",
+          "head_of_state": "President",
+          "name": "Luiz Inácio Lula da Silva",
+          "price_value": 40000000
+        },
+        {
+          "country": "Canada",
+          "head_of_state": "Governor-General",
+          "name": "Mary Simon",
+          "price_value": 35000000
+        },
+        {
+          "country": "South Africa",
+          "head_of_state": "President",
+          "name": "Cyril Ramaphosa",
+          "price_value": 30000000
+        },
+        {
+          "country": "Mexico",
+          "head_of_state": "President",
+          "name": "Andrés Manuel López Obrador",
+          "price_value": 28000000
+        },
+        {
+          "country": "Australia",
+          "head_of_state": "Governor-General",
+          "name": "David Hurley",
+          "price_value": 25000000
+        },
+        {
+          "country": "Turkey",
+          "head_of_state": "President",
+          "name": "Recep Tayyip Erdoğan",
+          "price_value": 24000000
+        },
+        {
+          "country": "Italy",
+          "head_of_state": "President",
+          "name": "Sergio Mattarella",
+          "price_value": 23000000
+        },
+        {
+          "country": "Saudi Arabia",
+          "head_of_state": "King",
+          "name": "Salman bin Abdulaziz Al Saud",
+          "price_value": 60000000
+        },
+        {
+          "country": "Egypt",
+          "head_of_state": "President",
+          "name": "Abdel Fattah el-Sisi",
+          "price_value": 19000000
+        },
+        {
+          "country": "South Korea",
+          "head_of_state": "President",
+          "name": "Yoon Suk-yeol",
+          "price_value": 37000000
+        },
+        {
+          "country": "Ukraine",
+          "head_of_state": "President",
+          "name": "Volodymyr Zelenskyy",
+          "price_value": 15000000
+        },
+        {
+          "country": "Nigeria",
+          "head_of_state": "President",
+          "name": "Bola Tinubu",
+          "price_value": 25000000
+        },
+        {
+          "country": "Israel",
+          "head_of_state": "President",
+          "name": "Isaac Herzog",
+          "price_value": 17000000
+        },
+        {
+          "country": "Iran",
+          "head_of_state": "President",
+          "name": "Ebrahim Raisi",
+          "price_value": 30000000
+        },
+        {
+          "country": "Pakistan",
+          "head_of_state": "President",
+          "name": "Arif Alvi",
+          "price_value": 20000000
+        },
+        {
+          "country": "Venezuela",
+          "head_of_state": "President",
+          "name": "Nicolás Maduro",
+          "price_value": 10000000
+        },
+        {
+          "country": "Philippines",
+          "head_of_state": "President",
+          "name": "Ferdinand Marcos Jr.",
+          "price_value": 15000000
+        },
+        {
+          "country": "Indonesia",
+          "head_of_state": "President",
+          "name": "Joko Widodo",
+          "price_value": 21000000
+        },
+        {
+          "country": "Thailand",
+          "head_of_state": "King",
+          "name": "Maha Vajiralongkorn",
+          "price_value": 16000000
+        },
+        {
+          "country": "Malaysia",
+          "head_of_state": "King",
+          "name": "Al-Sultan Abdullah",
+          "price_value": 14000000
+        },
+        {
+          "country": "Colombia",
+          "head_of_state": "President",
+          "name": "Gustavo Petro",
+          "price_value": 12000000
+        },
+        {
+          "country": "Singapore",
+          "head_of_state": "President",
+          "name": "Halimah Yacob",
+          "price_value": 10000000
+        },
+        {
+          "country": "Spain",
+          "head_of_state": "King",
+          "name": "Felipe VI",
+          "price_value": 40000000
+        },
+        {
+          "country": "Sweden",
+          "head_of_state": "King",
+          "name": "Carl XVI Gustaf",
+          "price_value": 25000000
+        },
+        {
+          "country": "Netherlands",
+          "head_of_state": "King",
+          "name": "Willem-Alexander",
+          "price_value": 30000000
+        },
+        {
+          "country": "Poland",
+          "head_of_state": "President",
+          "name": "Andrzej Duda",
+          "price_value": 18000000
+        },
+        {
+          "country": "Vietnam",
+          "head_of_state": "President",
+          "name": "Võ Văn Thưởng",
+          "price_value": 17000000
+        },
+        {
+          "country": "Switzerland",
+          "head_of_state": "President",
+          "name": "Alain Berset",
+          "price_value": 20000000
+        },
+        {
+          "country": "Belgium",
+          "head_of_state": "King",
+          "name": "Philippe",
+          "price_value": 15000000
+        },
+        {
+          "country": "Chile",
+          "head_of_state": "President",
+          "name": "Gabriel Boric",
+          "price_value": 14000000
+        },
+        {
+          "country": "Portugal",
+          "head_of_state": "President",
+          "name": "Marcelo Rebelo de Sousa",
+          "price_value": 13000000
+        },
+        {
+          "country": "Norway",
+          "head_of_state": "King",
+          "name": "Harald V",
+          "price_value": 12000000
+        },
+        {
+          "country": "Finland",
+          "head_of_state": "President",
+          "name": "Sauli Niinistö",
+          "price_value": 15000000
+        },
+        {
+          "country": "Denmark",
+          "head_of_state": "Queen",
+          "name": "Margrethe II",
+          "price_value": 12000000
+        },
+        {
+          "country": "New Zealand",
+          "head_of_state": "Governor-General",
+          "name": "Cindy Kiro",
+          "price_value": 10000000
+        },
+        {
+          "country": "Greece",
+          "head_of_state": "President",
+          "name": "Katerina Sakellaropoulou",
+          "price_value": 11000000
+        },
+        {
+          "country": "Austria",
+          "head_of_state": "President",
+          "name": "Alexander Van der Bellen",
+          "price_value": 10000000
+        },
+        {
+          "country": "Bangladesh",
+          "head_of_state": "President",
+          "name": "Mohammad Abdul Hamid",
+          "price_value": 8000000
+        },
+        {
+          "country": "Hungary",
+          "head_of_state": "President",
+          "name": "Katalin Novák",
+          "price_value": 9000000
+        },
+        {
+          "country": "Qatar",
+          "head_of_state": "Emir",
+          "name": "Tamim bin Hamad Al Thani",
+          "price_value": 20000000
+        },
+        {
+          "country": "Ireland",
+          "head_of_state": "President",
+          "name": "Michael D. Higgins",
+          "price_value": 8000000
+        },
+        {
+          "country": "Czech Republic",
+          "head_of_state": "President",
+          "name": "Petr Pavel",
+          "price_value": 9500000
+        },
+        {
+          "country": "Peru",
+          "head_of_state": "President",
+          "name": "Dina Boluarte",
+          "price_value": 8000000
+        },
+        {
+          "country": "Morocco",
+          "head_of_state": "King",
+          "name": "Mohammed VI",
+          "price_value": 12000000
+        },
+        {
+          "country": "United Arab Emirates",
+          "head_of_state": "President",
+          "name": "Mohammed bin Zayed Al Nahyan",
+          "price_value": 18000000
+        },
+        {
+          "country": "Sri Lanka",
+          "head_of_state": "President",
+          "name": "Ranil Wickremesinghe",
+          "price_value": 6000000
+        },
+        {
+          "country": "Kazakhstan",
+          "head_of_state": "President",
+          "name": "Kassym-Jomart Tokayev",
+          "price_value": 8500000
+        }
+      ],
+      "coverups": [
+        {
+          "value": "historical_erasure",
+          "label": "Historical Erasure",
+          "description": "Rewriting or omitting specific events in history.",
+          "price": 50000
+        },
+        {
+          "value": "digital_footprint_removal",
+          "label": "Digital Footprint Removal",
+          "description": "Complete removal of online presence or specific digital traces.",
+          "price": 25000
+        },
+        {
+          "value": "witness_redirection",
+          "label": "Witness Redirection",
+          "description": "Strategic misinformation to mislead potential witnesses.",
+          "price": 30000
+        },
+        {
+          "value": "evidence_sanitization",
+          "label": "Evidence Sanitization",
+          "description": "Cleansing any and all physical or digital evidence.",
+          "price": 40000
+        },
+        {
+          "value": "media_diversion",
+          "label": "Media Diversion",
+          "description": "Redirection of public attention through staged events or trending topics.",
+          "price": 20000
+        },
+        {
+          "value": "location_alteration",
+          "label": "Location Alteration",
+          "description": "Hiding or falsifying locations of individuals, assets, or events.",
+          "price": 35000
+        },
+        {
+          "value": "mass_memory_manipulation",
+          "label": "Mass Memory Manipulation",
+          "description": "Widespread memory erasure or implantation via subliminal methods.",
+          "price": 75000
+        },
+        {
+          "value": "corporate_image_restoration",
+          "label": "Corporate Image Restoration",
+          "description": "Restoring and protecting a business's public image post-scandal.",
+          "price": 60000
+        },
+        {
+          "value": "event_fabrication",
+          "label": "Event Fabrication",
+          "description": "Creation of a fake event to cover up the truth.",
+          "price": 55000
+        },
+        {
+          "value": "reverse_whistleblower",
+          "label": "Reverse Whistleblower",
+          "description": "Deploying false information to discredit insider leaks.",
+          "price": 45000
+        },
+        {
+          "value": "reality_distortion",
+          "label": "Reality Distortion",
+          "description": "Manipulation of media to alter perceived facts and narratives.",
+          "price": 70000
+        },
+        {
+          "value": "historical_site_concealment",
+          "label": "Historical Site Concealment",
+          "description": "Obscuring or fabricating historical landmarks or artifacts.",
+          "price": 80000
+        },
+        {
+          "value": "black_hole_protocol",
+          "label": "Black Hole Protocol",
+          "description": "Complete erasure of any documented presence.",
+          "price": 100000
+        },
+        {
+          "value": "impersonation_management",
+          "label": "Impersonation Management",
+          "description": "Using doubles or imposters to redirect public attention.",
+          "price": 60000
+        },
+        {
+          "value": "timeline_adjustments",
+          "label": "Timeline Adjustments",
+          "description": "Altering known timelines to confuse event sequencing.",
+          "price": 75000
+        },
+        {
+          "value": "artifact_concealment",
+          "label": "Artifact Concealment",
+          "description": "Hiding or falsifying artifacts with high cultural or political value.",
+          "price": 55000
+        },
+        {
+          "value": "person_of_interest_disappearance",
+          "label": "Person of Interest Disappearance",
+          "description": "Covert relocation and identity re-assignment for individuals.",
+          "price": 95000
+        },
+        {
+          "value": "corporate_sabotage_camouflage",
+          "label": "Corporate Sabotage Camouflage",
+          "description": "Masking evidence of hostile corporate takeovers.",
+          "price": 65000
+        },
+        {
+          "value": "truth_distortion_campaign",
+          "label": "Truth Distortion Campaign",
+          "description": "Creating alternative 'truths' that reshape public opinion.",
+          "price": 72000
+        },
+        {
+          "value": "cover_event_creation",
+          "label": "Cover Event Creation",
+          "description": "Staging alternative incidents to overshadow key events.",
+          "price": 50000
+        }
+      ],
+      "govermeants": [
+        {
+          "country": "Vatican City",
+          "price": "1000000",
+          "description": "A small yet highly influential nation, the Vatican is home to the central authority of the Catholic Church. Overthrowing its leadership could have immense global ramifications despite its tiny size."
+        },
+        {
+          "country": "Monaco",
+          "price": "2500000",
+          "description": "A wealthy microstate known for its casinos and luxury tourism. While small in territory, Monaco's political and financial influence makes it a notable target for geopolitical maneuvering."
+        },
+        {
+          "country": "Liechtenstein",
+          "price": "3000000",
+          "description": "This small, landlocked principality is known for its banking secrecy and low taxes. Its stable government and lack of military make it an easy target for a strategic shift in leadership."
+        },
+        {
+          "country": "San Marino",
+          "price": "4000000",
+          "description": "One of the world's oldest republics, San Marino is a small yet resilient state surrounded by Italy. Despite its peaceful reputation, a successful overthrow would disrupt European diplomacy."
+        },
+        {
+          "country": "Luxembourg",
+          "price": "10000000",
+          "description": "A financial powerhouse despite its size, Luxembourg holds significant influence in European and global banking. Overthrowing its government would shake the foundations of international finance."
+        },
+        {
+          "country": "Iceland",
+          "price": "12000000",
+          "description": "Known for its natural beauty and advanced tech sector, Iceland's small population and isolated geography would make a quick overthrow feasible, though its unique position in Europe adds intrigue."
+        },
+        {
+          "country": "Andorra",
+          "price": "8000000",
+          "description": "This tiny Pyrenean country, nestled between France and Spain, might seem insignificant but has an important role in the European Union, making it a key player in regional politics despite its small size."
+        },
+        {
+          "country": "Malta",
+          "price": "15000000",
+          "description": "With a strategic location in the Mediterranean, Malta holds military and political significance. Its government is stable, but its small size means an overthrow would be swift and relatively undetected."
+        },
+        {
+          "country": "Estonia",
+          "price": "20000000",
+          "description": "As one of the smallest countries in the European Union, Estonia's tech-forward government could be a valuable target. While its digital infrastructure is advanced, a change in leadership would alter the region's balance."
+        },
+        {
+          "country": "Bhutan",
+          "price": "25000000",
+          "description": "A Himalayan kingdom known for its isolationist policies and focus on happiness over wealth. Overthrowing Bhutan’s monarchy would disrupt its delicate cultural and political ecosystem."
+        },
+        {
+          "country": "Kuwait",
+          "price": "50000000",
+          "description": "Kuwait has a large sovereign wealth fund and a strong economic position in the Middle East. Though small, its strategic location and wealth make it a tempting target for political change."
+        },
+        {
+          "country": "Qatar",
+          "price": "75000000",
+          "description": "Qatar, with its vast oil reserves and political influence in the Gulf region, would require careful coordination for an overthrow. Despite its small population, its wealth and power make it a high-risk but highly valuable target."
+        },
+        {
+          "country": "Singapore",
+          "price": "100000000",
+          "description": "Singapore’s thriving economy and strategic location in Southeast Asia make it an economic powerhouse despite its size. An overthrow could destabilize much of global trade and finance."
+        },
+        {
+          "country": "United Arab Emirates",
+          "price": "150000000",
+          "description": "This wealthy federation of seven emirates wields significant influence over global trade and oil markets. Overthrowing its ruling monarchies would have far-reaching consequences in the Middle East and beyond."
+        },
+        {
+          "country": "Switzerland",
+          "price": "180000000",
+          "description": "Switzerland's neutrality and highly developed banking system make it an influential player on the global stage. Despite its small size, its political stability and economic power require careful planning to destabilize."
+        },
+        {
+          "country": "Australia",
+          "price": "200000000",
+          "description": "A vast country with a large population and significant geopolitical importance. Australia’s political system is stable, but an overthrow could disrupt the Pacific region and international trade."
+        },
+        {
+          "country": "South Korea",
+          "price": "250000000",
+          "description": "South Korea is a major technological and industrial player, with a well-equipped military. Overthrowing its government would be a complex task with regional and global repercussions, especially in relation to its neighbor, North Korea."
+        },
+        {
+          "country": "Canada",
+          "price": "300000000",
+          "description": "As a large and resource-rich country with close ties to the United States, Canada’s overthrow would alter the balance of power in North America and could have ripple effects on global security and trade."
+        },
+        {
+          "country": "France",
+          "price": "350000000",
+          "description": "As one of the world’s largest economies and a permanent member of the UN Security Council, overthrowing the French government would have profound consequences on both European and global politics."
+        },
+        {
+          "country": "Japan",
+          "price": "400000000",
+          "description": "A global technological leader and economic powerhouse, Japan's government plays a key role in the Asian economy. Overthrowing it would destabilize one of the world's leading economies."
+        },
+        {
+          "country": "Germany",
+          "price": "450000000",
+          "description": "Europe’s largest economy, Germany holds significant global influence in politics, trade, and defense. An overthrow here would have massive ramifications in both Europe and worldwide."
+        },
+        {
+          "country": "Italy",
+          "price": "500000000",
+          "description": "Italy, with its cultural heritage, strategic location in the Mediterranean, and significant economic role, is a country whose political instability would have ripple effects throughout the European Union and beyond."
+        },
+        {
+          "country": "Brazil",
+          "price": "550000000",
+          "description": "The largest economy in South America and an influential player in the BRICS nations. Overthrowing Brazil’s government would cause a shift in regional power dynamics and affect global trade."
+        },
+        {
+          "country": "India",
+          "price": "600000000",
+          "description": "With the world's largest democracy and an emerging global power, India plays a key role in Asian and global politics. An overthrow would create massive instability in the region and could reshape global geopolitics."
+        },
+        {
+          "country": "Russia",
+          "price": "750000000",
+          "description": "Russia, with its large territory, vast natural resources, and nuclear capabilities, is a formidable target. An overthrow here would significantly alter the balance of power on a global scale."
+        },
+        {
+          "country": "United Kingdom",
+          "price": "800000000",
+          "description": "With its vast colonial history, global economic ties, and military power, the UK’s political system is a cornerstone of the international order. Overthrowing its government would alter the geopolitical landscape dramatically."
+        },
+        {
+          "country": "Mexico",
+          "price": "850000000",
+          "description": "Mexico’s location and its importance as a trade partner to both the United States and Latin America make it a key geopolitical player. Overthrowing its government would disrupt regional politics."
+        },
+        {
+          "country": "China",
+          "price": "900000000",
+          "description": "China’s massive population, economic influence, and military power make it a daunting target. Overthrowing its government would require unparalleled strategic coordination and would lead to enormous global consequences."
+        },
+        {
+          "country": "United States",
+          "price": "1000000000",
+          "description": "The most powerful country in the world, with unmatched military power, technological innovation, and economic dominance. Overthrowing the U.S. government would have the most profound impact on global stability and geopolitics."
+        },
+        {
+          "country": "Argentina",
+          "price": "150000000",
+          "description": "Argentina's political landscape, combined with its natural resources and agricultural power, makes it an important country in Latin America. Overthrowing its government would send shockwaves through the region."
+        },
+        {
+          "country": "South Africa",
+          "price": "250000000",
+          "description": "A major economic power in Africa, South Africa's overthrow would destabilize the entire southern region and create ripple effects across the continent."
+        },
+        {
+          "country": "Saudi Arabia",
+          "price": "350000000",
+          "description": "Saudi Arabia's strategic importance due to its oil reserves and influence in the Gulf region would make its government a highly valuable target for geopolitical shifts."
+        },
+        {
+          "country": "Egypt",
+          "price": "400000000",
+          "description": "With its location in the Middle East and control of the Suez Canal, Egypt holds critical geopolitical importance. Overthrowing its government would create significant instability in the region."
+        },
+        {
+          "country": "Turkey",
+          "price": "450000000",
+          "description": "Turkey is a key player in both Europe and the Middle East. An overthrow would impact NATO, trade, and security in both regions, leading to far-reaching consequences."
+        },
+        {
+          "country": "Indonesia",
+          "price": "500000000",
+          "description": "As the largest country in Southeast Asia, Indonesia holds political and economic influence in the region. Overthrowing its government would be a significant upheaval in the Pacific."
+        },
+        {
+          "country": "Spain",
+          "price": "600000000",
+          "description": "As one of Europe’s largest economies and a key EU member, Spain’s political change would send ripples across Europe and the Mediterranean."
+        },
+        {
+          "country": "Colombia",
+          "price": "700000000",
+          "description": "Colombia's position in South America, combined with its natural resources, makes it a major player in the continent's politics and trade."
+        },
+        {
+          "country": "Japan",
+          "price": "850000000",
+          "description": "Japan’s advanced technology sector and major industrial base make it one of the most influential countries globally. An overthrow here would destabilize major global supply chains."
+        },
+        {
+          "country": "Nigeria",
+          "price": "900000000",
+          "description": "The most populous country in Africa, Nigeria has a key role in African politics and energy markets. Overthrowing its government would significantly impact regional power dynamics."
+        },
+        {
+          "country": "Bangladesh",
+          "price": "950000000",
+          "description": "As a densely populated country with a growing economy, Bangladesh’s political stability is key to South Asia's stability."
+        }
+      ]
+    }
+  ]
+}
