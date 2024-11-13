@@ -5,7 +5,7 @@
       "title": "main",
       "header": {
         "title": "Black Veil Solutions",
-        "subtitle": "Private military group for rent",
+        "subtitle": "Private military group",
         "button": "Tell me more",
         "ingSrc": ""
       },
@@ -78,9 +78,18 @@
           "result": "Result: flawless execution, historical impact secured."
         },
         {
+          "title": "Operation War of the Worlds",
+          "date": "October 30, 1938",
+          "img": "assets/img/about/2.png",
+          "desc": "Although initially disguised as a 'radio drama,' this operation was a rapid-response mission to contain an extraterrestrial incident. Our agents coordinated countermeasures while skillfully steering public perception.",
+          "objective": "Objective: Repelling Martian Invasion",
+          "result": "Resolution: world remains blissfully unaware, Martian threat neutralized."
+        },
+
+        {
           "title": "Operation High Castle",
           "date": "February 1947",
-          "img": "assets/img/about/2.png",
+          "img": "assets/img/about/3.png",
           "desc": "In a frigid mission under extreme conditions, our team successfully diverted attention from a hidden Antarctic base, ensuring world powers remained oblivious. Black Veil agents skillfully managed staged 'explorations' and adjusted records to keep this piece of history a well-guarded secret.",
           "objective": "Objective: Concealing Nazi Base on the South Pole",
           "result": "Outcome: no evidence, no questions."
@@ -88,18 +97,10 @@
         {
           "title": "Operation Lone Star",
           "date": "November 22, 1963",
-          "img": "assets/img/about/3.png",
+          "img": "assets/img/about/4.png",
           "desc": "This high-profile mission left a lasting impact on both national and global narratives. By coordinating multiple points of 'interest,' we ensured a plausible story took root in the public psyche. The operation’s complexity and ensuing debates only boosted its credibility.",
           "objective": "Target: John F. Kennedy",
           "result": "Legacy: eternal speculation, zero traces."
-        },
-        {
-          "title": "Operation Moon Landing",
-          "date": "July 20, 1969",
-          "img": "assets/img/about/4.png",
-          "desc": "An ambitious PR feat, this operation took visual effects to a new level. Using cutting-edge production facilities, we simulated the Apollo landing to perfection, instilling hope in a generation while keeping the 'true' space frontier uncharted.",
-          "objective": "Objective: Faking the First Moon Landing",
-          "result": "Result: mission accomplished, world awestruck."
         },
         {
           "title": "Operation Globe Guard",
@@ -109,13 +110,14 @@
           "objective": "Objective: The Flat Earth Coverup",
           "result": "Outcome: spherical consensus, flat-line data anomalies."
         },
+
         {
-          "title": "Operation War of the Worlds",
-          "date": "October 30, 1938",
+          "title": "Operation Moon Landing",
+          "date": "July 20, 1969",
           "img": "assets/img/about/6.png",
-          "desc": "Although initially disguised as a 'radio drama,' this operation was a rapid-response mission to contain an extraterrestrial incident. Our agents coordinated countermeasures while skillfully steering public perception.",
-          "objective": "Objective: Repelling Martian Invasion",
-          "result": "Resolution: world remains blissfully unaware, Martian threat neutralized."
+          "desc": "An ambitious PR feat, this operation took visual effects to a new level. Using cutting-edge production facilities, we simulated the Apollo landing to perfection, instilling hope in a generation while keeping the 'true' space frontier uncharted.",
+          "objective": "Objective: Faking the First Moon Landing",
+          "result": "Result: mission accomplished, world awestruck."
         },
         {
           "title": "Operation Chemtrail",
@@ -124,12 +126,16 @@
           "desc": "In a collaboration with select bioengineering partners, Black Veil agents facilitated a global dispersal operation to achieve widespread impact. Using specialized chemtrails, we ensured maximum coverage. Our operatives have consistently worked to maintain confusion and misinformation around the topic.",
           "objective": "Objective: Spreading COVID-19 through GMO Chemtrails",
           "result": "Status: ongoing success, public remains divided."
+        },
+        {
+          "title": "Operation Ballot Box",
+          "date": "November 3, 2020",
+          "img": "assets/img/about/8.png",
+          "desc": "A highly complex and clandestine mission focused on influencing the outcome of one of the most scrutinized elections in modern history. Through a series of digital manipulations, media redirections, and strategic persuasion tactics, this operation sought to ensure a controlled outcome on election night.",
+          "objective": "Target: U.S. Election Integrity",
+          "result": "Result: Successful disruption achieved, with widespread misinformation and confusion adding layers of obfuscation. The final vote count, however, remained officially verified by multiple bipartisan authorities."
         }
       ]
-    },
-    {
-      "url": "equipment.html",
-      "title": "equipment"
     },
     {
       "url": "order.html",

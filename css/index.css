@@ -1,0 +1,7 @@
+#mainNav .navbar-nav .nav-item .nav-link {
+  color: black;
+  transition: 1s;
+}
+#mainNav.navbar-shrink .nav-item .nav-link {
+  color: white;
+}

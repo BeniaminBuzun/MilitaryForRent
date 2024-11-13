@@ -59,15 +59,15 @@ function content(json) {
         calculatePrice();
       });
       let c;
-      for (el in json.pages[4].presidents) {
+      for (el in json.pages[3].presidents) {
         c = document.createElement("option");
         c.innerHTML =
-          json.pages[4].presidents[el].name +
+          json.pages[3].presidents[el].name +
           " (" +
-          json.pages[4].presidents[el].country +
+          json.pages[3].presidents[el].country +
           ")";
-        json.pages[4].presidents[el].name;
-        c.value = json.pages[4].presidents[el].price_value;
+        json.pages[3].presidents[el].name;
+        c.value = json.pages[3].presidents[el].price_value;
         x.appendChild(c);
       }
       t.appendChild(x);
@@ -120,13 +120,13 @@ function content(json) {
         calculatePrice();
       });
       let c;
-      for (el in json.pages[4].coverups) {
+      for (el in json.pages[3].coverups) {
         c = document.createElement("option");
-        c.innerHTML = json.pages[4].coverups[el].label;
-        c.value = json.pages[4].coverups[el].price;
+        c.innerHTML = json.pages[3].coverups[el].label;
+        c.value = json.pages[3].coverups[el].price;
         x1.appendChild(c);
         c = document.createElement("label");
-        c.innerHTML = json.pages[4].coverups[el].description;
+        c.innerHTML = json.pages[3].coverups[el].description;
         x1.appendChild(c);
       }
       t.appendChild(x1);
@@ -149,10 +149,10 @@ function content(json) {
         calculatePrice();
       });
       let c;
-      for (el in json.pages[4].govermeants) {
+      for (el in json.pages[3].govermeants) {
         c = document.createElement("option");
-        c.innerHTML = json.pages[4].govermeants[el].country;
-        c.value = json.pages[4].govermeants[el].price;
+        c.innerHTML = json.pages[3].govermeants[el].country;
+        c.value = json.pages[3].govermeants[el].price;
         x2.appendChild(c);
       }
       t.appendChild(x2);
@@ -172,3 +172,10 @@ function calculatePrice() {
 
   document.getElementById("price").innerHTML = x + " $";
 }
+
+document.getElementById("SubmitForm").addEventListener("submit", (e) => {
+  e.preventDefault();
+  console.log("SENT");
+  alert("DSADS");
+});
+function sendForm() {}

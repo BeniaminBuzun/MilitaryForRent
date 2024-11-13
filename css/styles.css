@@ -11272,9 +11272,10 @@ p {
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
-  color: #fff;
+  color: white;
   letter-spacing: 0.0625em;
 }
+
 #mainNav .navbar-nav .nav-item .nav-link.active,
 #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #ffc800;
@@ -11293,8 +11294,10 @@ p {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
+    height: 2.5rem;
     transition: height 0.3s ease-in-out;
+    margin-top: -4%;
+    margin-left: -20%;
   }
   #mainNav.navbar-shrink {
     padding-top: 1rem;
@@ -11306,7 +11309,7 @@ p {
   }
   #mainNav.navbar-shrink .navbar-brand svg,
   #mainNav.navbar-shrink .navbar-brand img {
-    height: 1.5rem;
+    height: 2.5rem;
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
@@ -11320,7 +11323,13 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("https://as2.ftcdn.net/v2/jpg/03/76/58/89/1000_F_376588942_IuKXdHmfCrGZmWwyeRuO94N5klIUbiik.jpg");
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgba(24, 24, 24, 1)
+    ),
+    url("../assets/img/title.jpg");
+
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11737,4 +11746,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 .filter-white {
   margin-top: 10px;
   filter: invert(100%);
+}
+
+.logo {
+  size: auto;
 }
